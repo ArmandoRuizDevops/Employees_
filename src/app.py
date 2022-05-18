@@ -15,6 +15,8 @@ data_empleados = [
      "picture": "https://static9.depositphotos.com/1594308/1163/i/950/depositphotos_11632583-stock-photo-successful-accountant.jpg"},
     {"nombre": "Armando", "apellido": "RuizRebollar",
      "picture": "https://static9.depositphotos.com/1594308/1163/i/950/depositphotos_11632583-stock-photo-successful-accountant.jpg"}, 
+    {"nombre": "Gonzalo", "apellido": "Nunez",
+     "picture": "https://static9.depositphotos.com/1594308/1163/i/950/depositphotos_11632583-stock-photo-successful-accountant.jpg"}, 
 ]
 
 # todo me permite crear una clave de seguridad para nuestra app
