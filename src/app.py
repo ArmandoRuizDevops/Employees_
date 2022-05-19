@@ -18,6 +18,8 @@ data_empleados = [
     {"nombre": "Gonzalo", "apellido": "Nunez",
      "picture": "https://static9.depositphotos.com/1594308/1163/i/950/depositphotos_11632583-stock-photo-successful-accountant.jpg"}, 
     {"nombre": "Yiny", "apellido": "Yen",
+     "picture": "https://static9.depositphotos.com/1594308/1163/i/950/depositphotos_11632583-stock-photo-successful-accountant.jpg"}, 
+     {"nombre": "Maria", "apellido": "Casillas",
      "picture": "https://static9.depositphotos.com/1594308/1163/i/950/depositphotos_11632583-stock-photo-successful-accountant.jpg"},  
 ]
 
