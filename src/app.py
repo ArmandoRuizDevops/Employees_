@@ -20,7 +20,12 @@ data_empleados = [
     {"nombre": "Yiny", "apellido": "Yen",
      "picture": "https://static9.depositphotos.com/1594308/1163/i/950/depositphotos_11632583-stock-photo-successful-accountant.jpg"}, 
      {"nombre": "Maria Jose", "apellido": "Casillas",
-     "picture": "https://static9.depositphotos.com/1594308/1163/i/950/depositphotos_11632583-stock-photo-successful-accountant.jpg"},  
+     "picture": "https://static9.depositphotos.com/1594308/1163/i/950/depositphotos_11632583-stock-photo-successful-accountant.jpg"}, 
+     {"nombre": "Mel", "apellido": "Zelaya",
+     "picture": "https://static9.depositphotos.com/1594308/1163/i/950/depositphotos_11632583-stock-photo-successful-accountant.jpg"},
+          {"nombre": "Pichu", "apellido": "Zelaya",
+     "picture": "https://pbs.twimg.com/media/DfMQ_8EUEAEHXyM.jpg"},  
+    
 ]
 
 # todo me permite crear una clave de seguridad para nuestra app
