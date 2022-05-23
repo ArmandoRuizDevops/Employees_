@@ -13,19 +13,14 @@ data_empleados = [
      "picture": "https://factorialhr.es/wp-content/uploads/2019/12/20130507/empleados-felices-portada.jpg"},
     {"nombre": "Lhordes", "apellido": "Catln",
      "picture": "https://static9.depositphotos.com/1594308/1163/i/950/depositphotos_11632583-stock-photo-successful-accountant.jpg"},
-    {"nombre": "Armando", "apellido": "RuizRebollar",
-     "picture": "https://static9.depositphotos.com/1594308/1163/i/950/depositphotos_11632583-stock-photo-successful-accountant.jpg"}, 
     {"nombre": "Gonzalo", "apellido": "Nunez",
      "picture": "https://static9.depositphotos.com/1594308/1163/i/950/depositphotos_11632583-stock-photo-successful-accountant.jpg"}, 
     {"nombre": "Yiny", "apellido": "Yen",
-     "picture": "https://static9.depositphotos.com/1594308/1163/i/950/depositphotos_11632583-stock-photo-successful-accountant.jpg"}, 
-     {"nombre": "Maria Jose", "apellido": "Casillas",
-     "picture": "https://static9.depositphotos.com/1594308/1163/i/950/depositphotos_11632583-stock-photo-successful-accountant.jpg"}, 
-     {"nombre": "Mel", "apellido": "Zelaya",
-     "picture": "https://static9.depositphotos.com/1594308/1163/i/950/depositphotos_11632583-stock-photo-successful-accountant.jpg"},
-          {"nombre": "Pichu", "apellido": "Zelaya",
-     "picture": "https://pbs.twimg.com/media/DfMQ_8EUEAEHXyM.jpg"},  
-    
+     "picture": "https://static9.depositphotos.com/1594308/1163/i/950/depositphotos_11632583-stock-photo-successful-accountant.jpg"},  
+    {"nombre": "Webcom", "apellido": "webocom",
+     "picture": "https://static9.depositphotos.com/1594308/1163/i/950/depositphotos_11632583-stock-photo-successful-accountant.jpg"},   
+       {"nombre": "Emerson", "apellido": "Duron",
+     "picture": "https://static9.depositphotos.com/1594308/1163/i/950/depositphotos_11632583-stock-photo-successful-accountant.jpg"}   
 ]
 
 # todo me permite crear una clave de seguridad para nuestra app
@@ -40,4 +35,4 @@ def empleados():
 
 
 if __name__ == '__main__':
-    app.run(debug=True, port=5000)
+    app.run(port=5000)
