@@ -6,6 +6,8 @@ app = Flask(__name__)
 data_empleados = [
     {"nombre": "Chavo", "apellido": "Del oCHO de la vecindad",
      "picture": "https://www.baarty.com/articulos/wp-content/uploads/2013/04/motivando-empleado-bares.jpg"},
+    {"nombre": "Chavo", "apellido": "Del oCHO de la vecindad",
+     "picture": "https://www.baarty.com/articulos/wp-content/uploads/2013/04/motivando-empleado-bares.jpg"},
     {"nombre": "Carlos", "apellido": "Aguilar",
      "picture": "https://www.bbva.com/wp-content/uploads/2013/03/carlos-torres-vila-ceo-bbva-1024x885.jpg"},
     {"nombre": "Ingrid", "apellido": "Guerrero", "picture": "https://www.clasibo.com/aviso_images/190626_041735.jpg"},
